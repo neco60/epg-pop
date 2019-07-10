@@ -1,11 +1,63 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
+  <channel id="NOW">
+    <display-name lang="pt">NOW</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20190710000000 +0100" stop="20190710235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <channel id="REDE MUNDIAL">
+    <display-name lang="pt">REDE MUNDIAL</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Eventual 2">
+    <display-name lang="pt">Canal Eventual 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TVC Rio">
+    <display-name lang="pt">TVC Rio</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Universitário">
+    <display-name lang="pt">Canal Universitário</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Legislativo">
+    <display-name lang="pt">Canal Legislativo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190710000000 -0300" stop="20190710060000 -0300" channel="NOW">
+    <title lang="pt">Do seu jeito. No seu tempo. E onde você estiver.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190710060000 -0300" stop="20190710120000 -0300" channel="NOW">
+    <title lang="pt">Do seu jeito. No seu tempo. E onde você estiver.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190710120000 -0300" stop="20190710180000 -0300" channel="NOW">
+    <title lang="pt">Do seu jeito. No seu tempo. E onde você estiver.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190710180000 -0300" stop="20190711000000 -0300" channel="NOW">
+    <title lang="pt">Do seu jeito. No seu tempo. E onde você estiver.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
   </programme>
 </tv>
